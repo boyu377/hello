@@ -4,3 +4,13 @@
  *
  * A simple program my name and my major
  */
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv){
+
+    printf("Boyu ZHou!!!\n");
+    printf("Electrical and Electroinc Engineering\n");
+
+    return 0;
+}
